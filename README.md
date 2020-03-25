@@ -32,6 +32,6 @@ A semi-curated list of tools and resources I use professionally
 - [Spectacle](https://formidable.com/open-source/spectacle/)
 
 
-### Miscellaneous
+## Miscellaneous
 
 - [Generate UUID](https://github.com/uuidjs/uuid)
