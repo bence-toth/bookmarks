@@ -73,6 +73,10 @@ A list of tools and resources I use professionally
 
 ## Miscellaneous
 
+### CSS
+
+- [Flex calculator](https://www.flexulator.com/)
+
 ### Utility
 
 - [Generate UUID](https://github.com/uuidjs/uuid)
