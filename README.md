@@ -5,9 +5,19 @@ A list of tools and resources I use professionally
 
 ## React
 
+### Hooks
+
 - [Beautiful React hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
+
+### Components
+
 - [Reach Router](https://reach.tech/router)
 - [Reach Tooltip](https://reacttraining.com/reach-ui/tooltip/)
+- [Auto height](https://www.npmjs.com/package/react-auto-height)
+
+### Utility
+
+- [class-names](https://www.npmjs.com/package/classnames)
 
 
 ## Code generation
