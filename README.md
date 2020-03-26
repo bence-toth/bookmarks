@@ -7,7 +7,9 @@ A list of tools and resources I use professionally
 
 ### Hooks
 
+- [Web API hooks](https://github.com/kripod/react-hooks/tree/master/packages/web-api-hooks)
 - [Beautiful React hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)
+- [Common React hooks recipes](https://usehooks.com/)
 
 ### Components
 
