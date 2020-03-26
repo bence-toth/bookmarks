@@ -41,6 +41,10 @@ A list of tools and resources I use professionally
 - [Generate CSS scroll shadows](https://css-scroll-shadows.now.sh/)
 - [Generate color palette](https://www.colorbox.io/)
 
+### SVG
+
+- [Generate SVG waves](https://getwaves.io/)
+
 
 ## Testing
 
