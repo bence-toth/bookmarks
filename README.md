@@ -22,9 +22,14 @@ A list of tools and resources I use professionally
 
 ## Code generation
 
+### React
+
 - [Create React App](https://create-react-app.dev/docs/getting-started/) - React app boilerplate
 - [Create React Thing](https://github.com/bence-toth/create-react-thing#readme) - React library boilerplate
 - [SVG to React component](https://github.com/twilio-labs/svg-to-react)
+
+### CSS
+
 - [Generate cubic Bézier curves](https://cubic-bezier.com/) for CSS easing functions
 
 
