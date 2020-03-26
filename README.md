@@ -21,6 +21,9 @@ A list of tools and resources I use professionally
 
 - [class-names](https://www.npmjs.com/package/classnames)
 
+### Learning
+- [React Bits](https://vasanthk.gitbooks.io/react-bits/) - React best practices
+
 
 ## Code generation
 
