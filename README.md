@@ -77,6 +77,11 @@ A list of tools and resources I use professionally
 
 - [Flex calculator](https://www.flexulator.com/)
 
+### Image compression
+
+- [Squoosh](https://squoosh.app/) for compressing raster
+- [Vecta](https://vecta.io/nano) for compressing SVG
+
 ### Utility
 
 - [Generate UUID](https://github.com/uuidjs/uuid)
