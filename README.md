@@ -35,7 +35,11 @@ A list of tools and resources I use professionally
 
 ### CSS
 
+- [Generate grid layouts](https://grid.layoutit.com/)
 - [Generate cubic Bézier curves](https://cubic-bezier.com/) for CSS easing functions
+- [Generate CSS triangles](http://apps.eky.hk/css-triangle-generator/)
+- [Generate CSS scroll shadows](https://css-scroll-shadows.now.sh/)
+- [Generate color palette](https://www.colorbox.io/)
 
 
 ## Testing
