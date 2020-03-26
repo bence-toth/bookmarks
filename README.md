@@ -58,11 +58,12 @@ A list of tools and resources I use professionally
 - [Variable fonts](https://v-fonts.com/) on v-fonts.com
 
 
-## Presentation tools
-
-- [Spectacle](https://formidable.com/open-source/spectacle/)
-
-
 ## Miscellaneous
 
+### Utility
+
 - [Generate UUID](https://github.com/uuidjs/uuid)
+
+### Presentation tools
+
+- [Spectacle](https://formidable.com/open-source/spectacle/)
