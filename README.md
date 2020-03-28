@@ -116,3 +116,5 @@ A list of tools and resources I use professionally
 ### Presentation tools
 
 - [Spectacle](https://formidable.com/open-source/spectacle/)
+- [RoughJS](https://roughjs.com/)
+- [ExcaliDraw](https://excalidraw.com/)
