@@ -109,7 +109,7 @@ A list of tools and resources I use professionally
 - [Squoosh](https://squoosh.app/) for compressing raster
 - [Vecta](https://vecta.io/nano) for compressing SVG
 
-### Utility
+### Utilities
 
 - [Generate UUID](https://github.com/uuidjs/uuid)
 
