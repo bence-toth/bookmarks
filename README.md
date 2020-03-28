@@ -46,6 +46,7 @@ A list of tools and resources I use professionally
 ### SVG
 
 - [Generate SVG waves](https://getwaves.io/)
+- [Generate SVG blobs](https://www.blobmaker.app/)
 
 
 ## Testing
