@@ -18,7 +18,7 @@ A list of tools and resources I use professionally
 - [Reach Tooltip](https://reacttraining.com/reach-ui/tooltip/)
 - [Auto height](https://www.npmjs.com/package/react-auto-height)
 
-### Utility
+### Utilities
 
 - [class-names](https://www.npmjs.com/package/classnames)
 - [Why did you render?](https://github.com/welldone-software/why-did-you-render#readme)
