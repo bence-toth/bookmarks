@@ -82,6 +82,17 @@ A list of tools and resources I use professionally
 - [UX project checklist](https://uxchecklist.github.io/)
 
 
+## Learning
+
+- [React Bits](https://vasanthk.gitbooks.io/react-bits/) - React best practices
+- [Progressive React](https://houssein.me/progressive-react)
+- [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/)
+- [Learn Git Branching](https://learngitbranching.js.org/) (gamified)
+- [Illustrated Web](https://illustrated.dev/)
+- [CSS Flexbox Froggy](https://flexboxfroggy.com/) (gamified)
+- [CSS Grid Garden](https://cssgridgarden.com/) (gamified)
+
+
 ## Miscellaneous
 
 ### CSS
