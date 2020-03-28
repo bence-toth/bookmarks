@@ -25,7 +25,6 @@ A list of tools and resources I use professionally
 - [Framer Motion](https://www.framer.com/motion/)
 
 
-
 ## Code generation
 
 ### React
