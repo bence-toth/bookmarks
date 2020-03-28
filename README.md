@@ -54,6 +54,7 @@ A list of tools and resources I use professionally
 - [Jest](https://jestjs.io/)
 - [Cypress](https://www.cypress.io/)
 - [Storybook](https://storybook.js.org/)
+- [Axe](https://github.com/dequelabs/axe-core)
 
 
 ## Linting
