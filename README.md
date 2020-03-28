@@ -21,9 +21,9 @@ A list of tools and resources I use professionally
 ### Utility
 
 - [class-names](https://www.npmjs.com/package/classnames)
+- [Why did you render?](https://github.com/welldone-software/why-did-you-render#readme)
+- [Framer Motion](https://www.framer.com/motion/)
 
-### Learning
-- [React Bits](https://vasanthk.gitbooks.io/react-bits/) - React best practices
 
 
 ## Code generation
