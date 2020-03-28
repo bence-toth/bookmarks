@@ -52,7 +52,7 @@ A list of tools and resources I use professionally
 ## Testing
 
 - [Jest](https://jestjs.io/)
-- [Cypess](https://www.cypress.io/)
+- [Cypress](https://www.cypress.io/)
 - [Storybook](https://storybook.js.org/)
 
 
