@@ -73,6 +73,7 @@ A list of tools and resources I use professionally
 - [Google Fonts](https://fonts.google.com/)
 - [Google Fonts (variable fonts only)](https://fonts.google.com/?vfonly)
 - [Variable fonts](https://v-fonts.com/) on v-fonts.com
+- [Lexend](https://www.lexend.com/)
 
 
 ## User Experience
